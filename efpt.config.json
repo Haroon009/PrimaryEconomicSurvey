@@ -1,0 +1,104 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "UiptQuettaEconomicSurveyContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Models\/DB",
+   "OutputPath": "Models\/Entity",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "QECONOMICSURVEY",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[BusinessPlaceBuilding]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BusinessPlaceLand]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EstablishmentInformation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Financialinsitudelist]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Gender_Owner]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GenderManger]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[KindofBusinessPlace]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LegalStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Nationally]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OwnershipStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Personengagedlist]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sel_office]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Settlement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SubNationality]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SurveyStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ward]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[informationareaid]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "DESKTOP-3L81T3T.UiptQuettaEconomicSurvey",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
